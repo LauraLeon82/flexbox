@@ -1,0 +1,18 @@
+* {
+  font-family: sans-serif;
+}
+
+p {
+  color: azure;
+  font-size: 20px;
+}
+
+#selectorId {
+  color: crimson;
+  font-size: 24px;
+}
+
+.selectorClase {
+  color: rebeccapurple;
+  font-size: 28px;
+}

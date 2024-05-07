@@ -1,0 +1,46 @@
+.caja {
+  width: 100px;
+  height: 100px;
+  background-color: #6b7280;
+  border-radius: 16px;
+  text-align: center;
+}
+.caja-mediana {
+  width: 200px;
+  height: 200px;
+  background-color: #e11d48;
+  border-radius: 16px;
+  text-align: center;
+  font-size: 10px;
+}
+.caja-grande {
+  width: 300px;
+  height: 300px;
+  background-color: #8c54fb;
+  border-radius: 16px;
+  text-align: center;
+}
+
+/* Unidades relativas */
+
+.em {
+  font-size: 2em;
+}
+.rem {
+  font-size: 2rem;
+}
+.porcentaje {
+  width: 50%;
+  height: 50%;
+  background-color: #8c54fb;
+}
+
+.vh {
+  height: 10vh;
+  background-color: #8c54fb;
+}
+
+.vw {
+  width: 10vw;
+  background-color: #8c54fb;
+}
